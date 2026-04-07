@@ -2,15 +2,32 @@
 
 A new Flutter project.
 
-## Getting Started
+## Bab: Membuat project
+![Screenshot hasil praktikum 1](images/Run-awal.png)
+Pertama kali run setelah projek dibuat
 
-This project is a starting point for a Flutter application.
+## Bab: Menambahkan tombol
+![Screenshot hasil praktikum 1](images/hot-reload.png)
+![Screenshot hasil praktikum 1](images/hasil-modifikasi-button-next.png)
 
-A few resources to get you started if this is your first Flutter project:
+Belajar menambahkan button
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Bab: Styling tampilan app
+![Screenshot hasil praktikum 1](images/after-tema-gaya.png)
+![Screenshot hasil praktikum 1](images/after-textTheme.png)
+![Screenshot hasil praktikum 1](images/menempatkan-ui-ditengah-part2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hasil dari belajar memperindah tampilan aplikasi
+
+## Bab: Menambahkan fungsi
+![Screenshot hasil praktikum 1](images/menambahkan-tombol-like.png)
+
+Belajar menambahkan fungsi logika untuk tombol like
+
+## Bab: Menambahkan kolom navigasi
+![Screenshot hasil praktikum 1](images/menambahkan-navigasi-samping.png)
+Membuat navigasi samping dan tombol ke halaman baru
+
+## Bab: Menambahkan halaman baru
+![Screenshot hasil praktikum 1](images/halaman-favorit.png)
+Membuat halaman favorit
